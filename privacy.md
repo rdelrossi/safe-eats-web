@@ -14,4 +14,4 @@ This app uses the **Google Places API** to provide supplemental restaurant infor
 All health inspection scores and data are sourced from public records provided by the **Southern Nevada Health District (SNHD)**. Safe Eats is an independent tool and is not affiliated with, endorsed by, or an official representative of the SNHD.
 
 ### 4. Contact
-For support or privacy inquiries, please contact: safe_eats@rderlossi.com
+For support or privacy inquiries, please contact: safe_eats@rdelrossi.com
