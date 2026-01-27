@@ -7,4 +7,4 @@ If you encounter any issues or have suggestions for the beta, please reach out:
 * **Email:** safe_eats@rdelrossi.com  
 
 ### Links
-* [Privacy Policy](privacy)
+* [Privacy Policy](privacy.md)
