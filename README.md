@@ -1,5 +1,5 @@
 # Safe Eats Support and User Guide
-<img width="500" height="500" alt="SafeEats-AppStore-1024" src="https://github.com/user-attachments/assets/668a8395-35c4-49f0-b75e-ae09feae13d9" />
+<img width="300" height="300" alt="SafeEats App Logo" align="right" src="https://github.com/user-attachments/assets/668a8395-35c4-49f0-b75e-ae09feae13d9" />
 
 Welcome to the beta for **Safe Eats**, your guide to restaurant health inspections in Southern Nevada. With Safe Eats you can make better choices about where you spend your money for your meals.
 
@@ -22,7 +22,7 @@ By default, you’ll see all the restaurants and bars. If the number of places i
 
 You can scroll through that list, or search through using the Search bar at the top of the screen. When you tap in the Search bar you’ll see options for finding locations by Name, Address (including City), and ZIP code.
 
-For each list entry you’ll see a badge showing the current grade for the location. An A grade is shown in green, a B is shown in yellow, and a C is shown in orange. Occasionally you’ll also see X grades in red, which indicate that the location was closed by SNHD for major violations. 
+<img width="150" alt="grade_badge" src="https://github.com/user-attachments/assets/037c1112-5d86-403f-b875-6e3bca99059a" align="right" /> For each list entry you’ll see a badge showing the current grade for the location. An A grade is shown in green, a B is shown in yellow, and a C is shown in orange. Occasionally you’ll also see X grades in red, which indicate that the location was closed by SNHD for major violations. 
 
 Safe Eats applies an award seal to the A badge if an establishment’s last inspection had no violations and no demerits. This “Perfect A” designation is not officially recognized by SNHD; it’s used solely by Safe Eats as a way to spotlight establishments that meet this distinction.
 
@@ -51,7 +51,13 @@ The details view starts with an overview that includes the name and address of t
 ### Inspection History
 ### Safe Eats Insights
 ### Location
+Displays a map of the establishment's location. You can scroll around in the map and zoom in or out with the pinch gesture. You can tap on the map to instantly get driving directions from Apple Maps.
+
 ### Business Details & Reviews
+Displays additional information about the establishment from Google, such as review counts and scores as well amenities offers (such as wheelchair accesibility, support for Apple Pay, outdoor dining, etc). You can also tap in this section to open the location's profile on Google or tap on the phone number to call it now.
+
+This section shows whether the location is "Open Now" or "Closed." Tapping on this indicator reveals hours of operation.
+
 ### Additional Resources
 ### Filing a Complaint with SNHD 
 At the top of the details view is a button for reporting issues to the Southern Nevada Health District. Tap the bullhorn icon to open links for filing a complaint with SNHD about a food establishment in either English or Spanish. If you believe that you became ill after eating at a location you can tap to file a Foodborne Illness Report. There’s also a link to call the SNHD Epidemiology Department. 
@@ -60,6 +66,11 @@ If you’re not feeling well it’s best to consult with your healthcare provide
 
 ## Filtering 
 ### Show Your Favorites
+
+### Smart Filters
+Safe Eats Smart Filers are an advanced tool for quickly spotlighting important locations. The **Struggling with A** smart filter shows you only locations that have had difficulty maintaining a consistent A rating over time. The **Recently Downgraded** smart filter shows you locations that have dropped to a rating other than A or have done so recently. Other smart filters draw your attention to recently inspected locations, consistent A performers, and more.
+
+You can combined Smart Filters with Favorites and other selections in the Filter view to home in on exactly the criteria that matters most to you.
 
 ### Filering By Grade
 
