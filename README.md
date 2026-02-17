@@ -75,7 +75,14 @@ You can combined Smart Filters with Favorites and other selections in the Filter
 ### Filering By Grade
 Normally, Safe Eats shows you all locations reviewed by SNHD. But you can limit the list to only those establishments with a specific current grade, such as A, B, C, or closed. There's also an option to see all A-graded and "Perfect A" locations at the same time. The "Perfect A" designation, which shows in the app as an A with a gold seal, indicates A-locations with no current violations or demerits. The "Perfect A" is a Safe Eats-only designation; it's not a designation from the SNHD.
 
-### Filtering by Type
+As with all selections in the Filter view, you can set everything back to its defaults by pressing the Reset button at the top of the view.
+
+### Filtering by Category
+Every establishment has a category assigned to it by SNHD. Normally, Safe Eats shows all the locations with a category of Restaurant or Bar/Tavern. You can see locations assigned to other categories by selecting one from this list. Safe Eats shows the most common categories, but there's also a "More Categories" option that shows you less-frequently used assignment.
+
+You can create a **custom category filter set** that includes multiple categories by long-pressing on any category name. Safe Eats will ask if you want to add establishments with that category assignment to your currently selected categories. You can remove a category from the custom category filter set by long-pressing on a selected category. 
+
+As with all selections in the Filter view, you can set everything back to its defaults by pressing the Reset button at the top of the view.
 
 ### Showing Unrated or Deleted Locatins
 
