@@ -73,6 +73,7 @@ Safe Eats Smart Filers are an advanced tool for quickly spotlighting important l
 You can combined Smart Filters with Favorites and other selections in the Filter view to home in on exactly the criteria that matters most to you.
 
 ### Filering By Grade
+Normally, Safe Eats shows you all locations reviewed by SNHD. But you can limit the list to only those establishments with a specific current grade, such as A, B, C, or closed. There's also an option to see all A-graded and "Perfect A" locations at the same time. The "Perfect A" designation, which shows in the app as an A with a gold seal, indicates A-locations with no current violations or demerits. The "Perfect A" is a Safe Eats-only designation; it's not a designation from the SNHD.
 
 ### Filtering by Type
 
