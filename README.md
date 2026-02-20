@@ -1,5 +1,12 @@
 # Safe Eats Support and User Guide
-<img width="300" height="300" alt="SafeEats App Logo" align="right" src="https://github.com/user-attachments/assets/668a8395-35c4-49f0-b75e-ae09feae13d9" />
+<img 
+  src="https://github.com/user-attachments/assets/668a8395-35c4-49f0-b75e-ae09feae13d9"
+  alt="SafeEats App Logo"
+  align="right"
+  style="width:300px; max-width:40%; height:auto; margin-left:16px;"
+/>
+
+Welcome to the beta for **Safe Eats**, your guide to restaurant health inspections in Southern Nevada. With Safe Eats you can make better choices about where you spend your money for your meals.
 
 Welcome to the beta for **Safe Eats**, your guide to restaurant health inspections in Southern Nevada. With Safe Eats you can make better choices about where you spend your money for your meals.
 
