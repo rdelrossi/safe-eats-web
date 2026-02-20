@@ -97,7 +97,7 @@ If you’re not feeling well it’s best to consult with your healthcare provide
 Tap the filter icon at the top of the Safe Eats display to restrict the main list to just the locations you care about. With Safe Eats filters you can see just your favorite locations, just those locations that have cetain grades, just schools or food trucks, or use Smart Filters to find the locations that have either struggled to maintain an A grade or those that have done so consistently. You can even combine multiple filters to find just what you're most interested in.
 
 ### Show Your Favorites
-
+You can favorite any location in the list by swiping right and pressing on the Favorite icon. To filter the list to just your favorites, turn on the Show Favorites Only toggle.
 
 ### Smart Filters
 Safe Eats Smart Filers are an advanced tool for quickly spotlighting important locations. The **Struggling with A** smart filter shows you only locations that have had difficulty maintaining a consistent A rating over time. The **Recently Downgraded** smart filter shows you locations that have dropped to a rating other than A or have done so recently. Other smart filters draw your attention to recently inspected locations, consistent A performers, and more.
