@@ -1,3 +1,20 @@
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .page {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 16px;
+    }
+  </style>
+</head>
+
+<div class="page">
 # Safe Eats Support and User Guide
 <img width="300" height="300" alt="SafeEats App Logo" align="right" src="https://github.com/user-attachments/assets/668a8395-35c4-49f0-b75e-ae09feae13d9" />
 
@@ -96,7 +113,10 @@ As with all selections in the Filter view, you can set everything back to its de
 
 ## Contact & Feedback
 If you encounter any issues or have suggestions for the beta, please reach out:
-* **Email:** safe_eats@rdelrossi.com  
+* **Email:** safe_eats@rdelrossi.com
+
+</div>
+
 
 ## Links
 * [Privacy Policy](privacy.md)
