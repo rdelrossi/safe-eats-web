@@ -15,3 +15,13 @@ All health inspection scores and data are sourced from public records provided b
 
 ### 4. Contact
 For support or privacy inquiries, please contact: safe_eats@rdelrossi.com
+
+### 5. iCloud Sync
+Safe Eats uses Apple iCloud (CloudKit) to sync certain app preferences and user-selected data across your devices signed in with the same Apple Account. This may include favorites, followed locations, and notification preferences. We do not sell this data or share it with third parties for advertising. Data synced through iCloud is handled by Apple under Apple’s privacy terms.
+
+### 6. Notifications
+If you enable notifications, Safe Eats may store and use notification-related settings (such as followed locations and alert preferences) to deliver alerts you request.
+Push notification delivery uses Apple Push Notification service (APNs). Device tokens are used only for notification delivery and related app functionality.
+
+### 7. Your Controls
+You can control iCloud syncing through your device’s iCloud settings and control notifications through iOS Notification Settings.
