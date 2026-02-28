@@ -1,6 +1,6 @@
 # Privacy Policy for Safe Eats
 
-**Last Updated:** January 27, 2026
+**Last Updated:** February 28, 2026
 
 Safe Eats is committed to providing health inspection data while respecting your privacy.
 
