@@ -100,7 +100,7 @@ Tap the filter icon at the top of the Safe Eats display to restrict the main lis
 You can favorite any location in the list by swiping right and pressing on the Favorite icon. To filter the list to just your favorites, turn on the Show Favorites Only toggle.
 
 ### Smart Filters
-Safe Eats Smart Filers are an advanced tool for quickly spotlighting important locations. The **Struggling with A** smart filter shows you only locations that have had difficulty maintaining a consistent A rating over time. The **Recently Downgraded** smart filter shows you locations that have dropped to a rating other than A or have done so recently. Other smart filters draw your attention to recently inspected locations, consistent A performers, and more.
+Safe Eats Smart Filters are an advanced tool for quickly spotlighting important locations. The **Struggling with A** smart filter shows you only locations that have had difficulty maintaining a consistent A rating over time. The **Recently Downgraded** smart filter shows you locations that have dropped to a rating other than A or have done so recently. Other smart filters draw your attention to recently inspected locations, consistent A performers, and more.
 
 You can combined Smart Filters with Favorites and other selections in the Filter view to home in on exactly the criteria that matters most to you.
 
