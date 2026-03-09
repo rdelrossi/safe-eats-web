@@ -121,6 +121,17 @@ As with all selections in the Filter view, you can set everything back to its de
 ## Advanced Features
 
 ## Data Insights
+Choose Data Insights from the menu to get an overall view of the data available to you. There are four sections: Ratings Snapshot, Top 5 Most Common Violations, Locations by Category, and Update History.
+
+**Ratings Snapshot** will likely show you that a very high percentage of locations have an A rating. That's the performance expected and when a location loses its A rating inspectors follow up quickly to be sure violations have been addressed. The rest of this section shows you exactly how many B, C, and X ratings are in the data. You can see those locations specifically by making selections in the **Filtering** settings.
+
+Be sure to take note of **Consistent A History**. Here you'll see the percentage of locations that have managed to earn an A rating in each of the their last three, five, and 10 inspections. As the number of inspections goes up, the number of locations with a consistent A rating will go down. That's why Safe Eats doesn't just you a locations current rating, but lets you see their history of ratings. An A rating today doesn't tell you what it was last month, or even last night.
+
+**Top 5 Most Common Violations** shows the most common violations across all locations. As you can do throughtout Safe Eats, tap the violation to read more about it.
+
+**Locations by Category**
+
+**Update History** shows a report of all the updates your initiated on your own or that have been downloaded to your device if you've turned on **Automatic Data Updates** in Settings.
 
 ## Settings
 
