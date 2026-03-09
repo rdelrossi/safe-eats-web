@@ -121,15 +121,19 @@ As with all selections in the Filter view, you can set everything back to its de
 ## Data Insights
 Choose Data Insights from the menu to get an overall view of the data available to you. There are four sections: Ratings Snapshot, Top 5 Most Common Violations, Locations by Category, and Update History.
 
+### Ratings Snapshot
 **Ratings Snapshot** will likely show you that a very high percentage of locations have an A rating. That's the performance expected and when a location loses its A rating inspectors follow up quickly to be sure violations have been addressed. The rest of this section shows you exactly how many B, C, and X ratings are in the data. You can see those locations specifically by making selections in the **Filtering** settings.
 
 Be sure to take note of **Consistent A History**. Here you'll see the percentage of locations that have managed to earn an A rating in each of the their last three, five, and 10 inspections. As the number of inspections goes up, the number of locations with a consistent A rating will go down. That's why Safe Eats doesn't just you a locations current rating, but lets you see their history of ratings. An A rating today doesn't tell you what it was last month, or even last night.
 
+### Common Violations
 **Top 5 Most Common Violations** shows the most common violations across all locations. As you can do throughtout Safe Eats, tap the violation to read more about it.
 
-**Locations by Category**
+### Ratings Snapshot
+**Locations by Category** shows you how the locations in your data break down by categories.
 
-**Update History** shows a report of all the updates your initiated on your own or that have been downloaded to your device if you've turned on **Automatic Data Updates** in Settings.
+### Update History
+**Update History** shows a report of all the updates your initiated on your own or that have been downloaded to your device if you've turned on **Automatic Data Updates** in Settings. This sections scrolls so you can review all the data updates you've received.
 
 ## User Guide and FAQ
 Tap here to read the online User Guide and answers to frequently asked questions.
@@ -137,14 +141,20 @@ Tap here to read the online User Guide and answers to frequently asked questions
 ## Settings
 Use Settings to see information about Safe Eats and set your preferences for getting data updates and notifications. You can also customize the app's appearance and set some options for advanced features, too.
 
+### About Safe Eats
 The **About** shows the Safe Eats version and build numbers and provides links to What's New in the build you have installed, the app's Privacy Policy, and an easy way to report a bug or send feedback to the developer.
 
+### Data Source
 In **Data Source** you can see where Safe Eats data comes from and when it was last updated. It's recommended to turn on **Automatic Data Updates** to receive updates to the Safe Eats data every night in the background. Daily updates are small and happen quickly. With Automatic Data Updates on you can be assured that you always have the latest Safe Eats data. 
 
 At any time you can trigger a data update by tapping **Download the latest inspection data**.
 
+### Notifications
 
-## Advanced Features
+### Appearance
+You can use the settings in **Appearance** to set the app's tint color and whether to **Show Inspection History in the List**, which is recommended. With inspection history turned on you'll always see as many as five previous inspections right above every grade badge in the list of locations.
+
+### Advanced 
 
 ## Contact & Feedback
 If you encounter any issues or have suggestions for the beta, please reach out:
