@@ -118,8 +118,6 @@ As with all selections in the Filter view, you can set everything back to its de
 
 ### Showing Unrated or Deleted Locatins
 
-## Advanced Features
-
 ## Data Insights
 Choose Data Insights from the menu to get an overall view of the data available to you. There are four sections: Ratings Snapshot, Top 5 Most Common Violations, Locations by Category, and Update History.
 
@@ -133,14 +131,25 @@ Be sure to take note of **Consistent A History**. Here you'll see the percentage
 
 **Update History** shows a report of all the updates your initiated on your own or that have been downloaded to your device if you've turned on **Automatic Data Updates** in Settings.
 
-## Settings
-
 ## User Guide and FAQ
+Tap here to read the online User Guide and answers to frequently asked questions.
+
+## Settings
+Use Settings to see information about Safe Eats and set your preferences for getting data updates and notifications. You can also customize the app's appearance and set some options for advanced features, too.
+
+The **About** shows the Safe Eats version and build numbers and provides links to What's New in the build you have installed, the app's Privacy Policy, and an easy way to report a bug or send feedback to the developer.
+
+In **Data Source** you can see where Safe Eats data comes from and when it was last updated. It's recommended to turn on **Automatic Data Updates** to receive updates to the Safe Eats data every night in the background. Daily updates are small and happen quickly. With Automatic Data Updates on you can be assured that you always have the latest Safe Eats data. 
+
+At any time you can trigger a data update by tapping **Download the latest inspection data**.
+
+
+## Advanced Features
 
 ## Contact & Feedback
 If you encounter any issues or have suggestions for the beta, please reach out:
 * **Email:** safe_eats@rdelrossi.com
 
-
+v
 ## Links
 * [Privacy Policy](privacy.md)
