@@ -6,10 +6,7 @@
   style="width:300px; max-width:40%; height:auto; margin-left:16px;"
 />
 
-Welcome to the beta for **Safe Eats**, your guide to restaurant health inspections in Southern Nevada. With Safe Eats you can make better choices about where you spend your money on meals. 
-
-
-Safe Eats puts an entire database of health inspection reports and A, B, and C grades for thousands of food establishments across Southern Nevada, including all of Las Vegas. 
+Welcome to the beta for **Safe Eats**, your guide to restaurant health inspections in Southern Nevada. With Safe Eats you can make better choices about where you spend your money on meals. Safe Eats puts an entire database of health inspection reports and A, B, and C grades for thousands of food establishments across Southern Nevada, including all of Las Vegas. 
 
 The data for Safe Eats comes from the Southern Nevada Health District (SNHD), which reviews food establishments at least annually. In addition to restaurants and bars, SNHD inspects school cafeterias, food trucks, caterers, grocery store kitchens, snack bars, and more. If food is prepared or served, SNHD reviews it and all of that information is included with Safe Eats.
 
@@ -20,10 +17,14 @@ But locations don’t have to show you their grades from last month or even yest
 ## Getting the Data
 When you first start Safe Eats you’ll be promoted to download the SNHD data. This first download is a big one, so it can take a couple minutes to complete. Once you have the data, though, future updates only include the information that’s changed, so they go quickly. The date of your last update is always shown in the lower right corner of your screen. You can download updates by tapping on that date or choosing “Download the latest inspection data” from Settings.
 
-Once you have the data, Safe Eats shows you an alphabetical list. You can search and scroll through the list, limit it to just those locations near you, apply advanced filters to see just what you want, and mark your favorites. In all cases, the current number of locations in the list is always shown in the bottom right corner of your device. 
+Once you have the data, Safe Eats shows you an alphabetical list. You can search and scroll through the list, limit it to just those locations nearby, apply advanced filters to see just what you want, and mark your favorites. In all cases, the current number of locations in the list is always shown in the bottom right corner of your device. 
 
 ## Finding and Assessing a Location
-By default, you’ll see all the restaurants and bars in Southern Nevada. If the high number of places surprises you, bear in mind that SNHD inspects all parts of food establishments separately. So, for example, a restaurant’s kitchen and bar will appear individually. Safe Eats uses icons to help you distinguish one from the other, but the category is also displayed on the third line of the every list entry.
+<img width="450" alt="Filter and menu buttons" src="https://github.com/user-attachments/assets/58086adc-4b01-43b0-9024-539f11ebeca5" align="right"/>
+
+By default, you’ll see all the restaurants and bars in Southern Nevada. Above the list are two buttons for filtering the data in a variety of ways and for opening the main menu, with access to Settings and other features.
+
+If the high number of places in the list surprises you, bear in mind that SNHD inspects all parts of food establishments separately. So, for example, a restaurant’s kitchen and bar will appear individually. Safe Eats uses icons to help you distinguish one from the other, but the category is also displayed on the third line of the every list entry.
 
 To find something quickly you can search with the Search bar at the top of the screen. There are options for finding locations by Name, Address (including City), and ZIP code.
 
@@ -94,7 +95,11 @@ At the top of the details view is a button for reporting issues to the Southern 
 If you’re not feeling well it’s best to consult with your healthcare provider first and file your reports with SNHD later.
 
 ## Filtering 
-Tap the filter icon at the top of the Safe Eats display to restrict the main list to just the locations you care about. With Safe Eats filters you can see just your favorite locations, just those locations that have cetain grades, just schools or food trucks, or use Smart Filters to find the locations that have either struggled to maintain an A grade or those that have done so consistently. You can even combine multiple filters to find just what you're most interested in.
+Tap the Filter button at the top of the Safe Eats list to restrict the main list to just the locations you care about. With Safe Eats filters you can see just your favorite locations, just those locations that have cetain grades, just schools or food trucks, or use Smart Filters to find the locations that have either struggled to maintain an A grade or those that have done so consistently. You can even combine multiple filters to find just what you're most interested in.
+
+You can press the Reset button in Filter to clear any filters you've set. 
+
+_Shortcut: Press and hold the Filter button to quickly clear any filters you've set._
 
 ### Show Your Favorites
 You can favorite any location in the list by swiping right and pressing on the Favorite icon. To filter the list to just your favorites, turn on the Show Favorites Only toggle.
