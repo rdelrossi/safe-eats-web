@@ -69,7 +69,11 @@ Tap on any entry in the list to see details about the location. There’s lots t
 The details view starts with an overview that includes the name and address of the establishment, its current grade, a grade history visualization line and a brief analysis of the history. The grade history visualization line contains segments for every inspection. The segment colors correspond to the badge colors (green for A, yellow for B, orange for C, red for X). The green segment for a “Perfect A” rating is indicated with a yellow outline.
 
 ### Inspections Timeline
-The Inspections Timeline shows you every inspection for a location over time. Violations that an inspector levies against a location carry a certain number of demerits. Some violations carry as many as 10 demerits, while others have less demerits or even none. The chart plots the demerits and the grade assigned. For locations that received a grade other than A you'll notice a reinspection very soon afterwards. That's because locations are given just a couple weeks to resolve their issues to get back to an A rating.
+The Inspections Timeline shows you every inspection for a location over time. You can swipe right to see an entire timeline of inspections. 
+
+The violations that an inspector levies against a location carry a certain number of demerits. Some violations carry as many as 10 demerits, while others have less demerits or even none. The chart plots the demerits and the grade assigned. For locations that received a grade other than A you'll notice a reinspection very soon afterwards. That's because locations are given just a couple weeks to resolve their issues to get back to an A rating.
+
+By default, the Inspections Timeline is presented like a traditional timeline, with time progressing from left to right, so you'll always start the location's oldest inspections. You can change this default order, however, with a **Reverse Inspections Timeline** in Settings. When you turn this on the Inspections Timeline will show the latest inspections first and you can swipe to the right to see older inspections.
 
 ### Inspection History
 This section shows details about every inspection, starting with the five most recent inspections. You can expand this list to see all the inspections for this location going back in time. For each inspection you can see the number violations and the number of demerits. If you tap on "Show," the list expands to display you the specific violation incurred. You can tap on the violation to read more about it.
