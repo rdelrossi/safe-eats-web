@@ -20,7 +20,8 @@ When you first start Safe Eats you’ll be promoted to download the SNHD data. T
 Once you have the data, Safe Eats shows you an alphabetical list. You can search and scroll through the list, limit it to just those locations nearby, apply advanced filters to see just what you want, and mark your favorites. In all cases, the current number of locations in the list is always shown in the bottom right corner of your device. 
 
 ## Finding and Assessing a Location
-<img width="450" alt="Filter and menu buttons" src="https://github.com/user-attachments/assets/58086adc-4b01-43b0-9024-539f11ebeca5" align="right"/>
+<img width="450" align="Right" alt="Filter and Menu icons" src="https://github.com/user-attachments/assets/f977e114-771a-4196-b304-e1300bb98c0a" />
+
 
 By default, you’ll see all the restaurants and bars in Southern Nevada. Above the list are two buttons for filtering the data in a variety of ways and for opening the main menu, with access to Settings and other features.
 
