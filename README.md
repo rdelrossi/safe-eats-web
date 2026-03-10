@@ -45,6 +45,8 @@ Safe Eats applies an award seal to the A badge if an establishment’s last insp
 Above the grade badge are as many as five colored dots that show a quick history of the location’s recent grades, from oldest to newest. You’ll see fewer than five dots for newer locations that may not have had that many inspections yet. The dots give you an at-a-glance view of a location’s performance. Five green dots and an A grade badge means the location has held a consistent A grade for at least their last six inspections. 
 
 ## Nearby Locations
+<img width="100" alt="Nearby location" src="https://github.com/user-attachments/assets/b21a3f39-ca48-42a9-a065-daf0bb17f6ad" align="right" />
+
 When you first install Safe Eats it asks for location permission. If you granted that permission the list will show you how each restaurant is from your current location. If you tap the navigation icon at the bottom left of your device you can instantly filter the list to nearby locations. Tap the navigation icon a second time to turn off the filter or choose a wider search radius. 
 
 Location filtering is a key feature of Safe Eats. It’s a great way to make quick decisions about places nearby that meet your quality expectations. 
@@ -73,6 +75,7 @@ The Inspections Timeline shows you every inspection for a location over time. Yo
 
 The violations that an inspector levies against a location carry a certain number of demerits. Some violations carry as many as 10 demerits, while others have less demerits or even none. The chart plots the demerits and the grade assigned. For locations that received a grade other than A you'll notice a reinspection very soon afterwards. That's because locations are given just a couple weeks to resolve their issues to get back to an A rating.
 
+<img width="300" alt="Reverse Inspections Timeline setting" align="right" src="https://github.com/user-attachments/assets/cefff31a-58c6-4c1a-9221-5aafbb4f9b02" />
 By default, the Inspections Timeline is presented like a traditional timeline, with time progressing from left to right, so you'll always start the location's oldest inspections. You can change this default order, however, with a **Reverse Inspections Timeline** in Settings. When you turn this on the Inspections Timeline will show the latest inspections first and you can swipe to the right to see older inspections.
 
 ### Inspection History
@@ -106,8 +109,8 @@ You can press the Reset button in Filter to clear any filters you've set.
 
 _Shortcut: Press and hold the Filter button to quickly clear any filters you've set._
 
-### Show Your Favorites
-You can favorite any location in the list by swiping right and pressing on the Favorite icon. To filter the list to just your favorites, turn on the Show Favorites Only toggle.
+### Show Favorites Only
+You can favorite any location in the list by swiping right and pressing on the Favorite icon. To filter the list to just your favorites, turn on the Show Favorites Only toggle in the Filters View
 
 ### Smart Filters
 Safe Eats Smart Filters are an advanced tool for quickly spotlighting important locations. The **Struggling with A** smart filter shows you only locations that have had difficulty maintaining a consistent A rating over time. The **Recently Downgraded** smart filter shows you locations that have dropped to a rating other than A or have done so recently. Other smart filters draw your attention to recently inspected locations, consistent A performers, and more.
